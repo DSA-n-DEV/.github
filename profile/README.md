@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/FJxz3zSthG5vQxG1ZY/giphy.gif" width="50px" height="50px">
+
+<img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" height="300px" align="left">
+
+# Welcome to DSA n DEV's Github page
+- This is is an organisation created by coders for coders.
+- Who can join:
+  - Anyone. Literally anyone can join.
+  - ABC : Any Body Can Code
+   - If you are interested in coding or even learning to code you can join our Community.
+- The only prerequisite is your interest and dedication to learn.
+
+# About Us
+<img src="https://user-images.githubusercontent.com/96862518/215866562-10d612a8-0ce2-4e15-8609-2216922d3441.png" align="right">
+
+- We provide all the right resources for budding coders.
+- These resources include:
+  - Resources for absolute begginers
+  - Resources for Data Structures and Algorithms
+  - Resources for Development
+- We are a non-profit organization created just by coders and entusiast and run by such coders to promote coding and help others who want to become coders.  
+  
+
 
 <!--
 
